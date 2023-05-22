@@ -18,3 +18,11 @@ respectivamente un artículo de la base de datos.
 * La clase Articulo debe tener también un método de clase getArticulos() que devuelva en un
 array todos los artículos de la base de datos.
 
+## Ejercicio 2
+
+Mejora el blog de tal forma que se permita la modificación de un artículo.
+
+## Ejercicio 3
+
+Añade estilos a la aplicación para hacerla más atractiva.
+
